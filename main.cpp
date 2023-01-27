@@ -17,9 +17,9 @@ int main() {
 	this_thread::sleep_for(std::chrono::milliseconds(5000));
 	cout << "Hello ";
 	this_thread::sleep_for(std::chrono::milliseconds(1500));
-	cout << "and welcome to the Los Pollos Hermanos family. ";
+	cout << "and welcome to the Random house. ";
 	this_thread::sleep_for(std::chrono::milliseconds(2000));
-	cout << "Ough shit, here we go again. ";
+	cout << "Oh shit, here we go again. ";
 	this_thread::sleep_for(std::chrono::milliseconds(1000));
 	cout << "Hello and welcome to this game. ";
 	this_thread::sleep_for(std::chrono::milliseconds(1000));
@@ -42,7 +42,7 @@ int main() {
 	if (symbol == 's')
 	{
 		cout << "\nHahaha, you realy thought that I will tell you a secret world? ";
-		cout << "OK. Let`s move. Secret phrase isssssss....... ";
+		cout << "OK. Let`s move. Secret phrase isssssss.... ";
 		cout << "I`hope you will lose)";
 	}
 	this_thread::sleep_for(std::chrono::milliseconds(5000));
